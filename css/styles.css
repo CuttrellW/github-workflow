@@ -1,5 +1,31 @@
-body {margin: auto;
+body { background-image: url(../imgs/background.jpg);
 font-family: "Helvetica" }
 
-#wrapper {width: 800px;}
+#wrapper {width: 800px;
+margin:auto;
+background-color: whitesmoke;
+}
+
+h1 {background-color: royalblue;
+    font-size: 56px;
+    font-weight: lighter;
+    padding: 10px;
+}
+
+#photo {
+    float: right;
+padding: 0 10px;}
+
+#intro {
+    padding: 0 20px; font-size: 18px;
+    }
+
+main{padding-top: 20px;}
+h2 {padding: 60px 15px 0;}
+
+footer {text-align: center;
+font-size: 11px;
+background-color: royalblue;
+    margin-top:80px;
+padding: 12px;}
 
